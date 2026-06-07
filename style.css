@@ -30,7 +30,6 @@ a {
 #vortex img {
     width: 200px;
     height: 200px;
-    animation: spin 4s linear infinite;
 }
 
 @keyframes spin {
